@@ -1,0 +1,56 @@
+.html
+{
+	background: #FFFFFF url("../images/screenshot_2016-08-22-08-56-45.jpg") no-repeat center center scroll;
+	background-size: contain !important;
+}
+
+#page
+{
+	z-index: 1;
+	width: 240px;
+	min-height: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 377px 379px 63px 341px;
+}
+
+#u792
+{
+	z-index: 2;
+	width: 238px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #7A7A7A;
+	background-color: rgba(0, 0, 0, 0.52);
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	-pie-background: rgba(0, 0, 0, 0.52);
+}
+
+#u791-5
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -2px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 11px;
+}
+
+body
+{
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

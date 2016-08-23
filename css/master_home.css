@@ -1,0 +1,157 @@
+#u314
+{
+	background-color: #9E005D;
+	position: relative;
+}
+
+#u314:hover
+{
+	background-color: #999999;
+}
+
+#u314:active
+{
+	background-color: #6B6B6B;
+}
+
+#u323
+{
+	background-color: #9E005D;
+	position: relative;
+}
+
+#u314.MuseMenuActive,#u323:hover
+{
+	background-color: #999999;
+}
+
+#u323:active
+{
+	background-color: #6B6B6B;
+}
+
+#u329
+{
+	background-color: #9E005D;
+	position: relative;
+}
+
+#u323.MuseMenuActive,#u329:hover
+{
+	background-color: #999999;
+}
+
+#u329:active
+{
+	background-color: #6B6B6B;
+}
+
+#u338
+{
+	background-color: #9E005D;
+	position: relative;
+}
+
+#u329.MuseMenuActive,#u338:hover
+{
+	background-color: #999999;
+}
+
+#u338:active
+{
+	background-color: #6B6B6B;
+}
+
+#u338.MuseMenuActive
+{
+	background-color: #999999;
+}
+
+#u316-4,#u326-4,#u332-4,#u340-4
+{
+	text-align: center;
+	line-height: 24px;
+	font-size: 20px;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u110
+{
+	border-color: #000000;
+	position: relative;
+	background: #FFFFFF url("../images/screenshot_2016-08-22-08-56-45-u110-fr.png") no-repeat left top;
+	background-color: rgba(255, 255, 255, 0.6);
+	background-size: contain !important;
+}
+
+#u114
+{
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#menuu134,#u313,#u320,#u328,#u335,#slideshowu500
+{
+	position: relative;
+}
+
+#u503
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u602_clip,#u611_clip
+{
+	overflow: hidden;
+}
+
+#u506,#u602,#u611,#u620
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	position: relative;
+}
+
+#u525-4,#u502-4
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	text-align: center;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u525,#u502
+{
+	color: #999999;
+}
+
+#u510-4
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	text-align: center;
+	line-height: 20px;
+	color: #999999;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+.MenuItem,.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
