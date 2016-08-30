@@ -46,6 +46,11 @@
 	background-color: #6B6B6B;
 }
 
+#menuu134,#u313,#u320,#u328,#u335
+{
+	position: relative;
+}
+
 #u338
 {
 	background-color: #9E005D;
@@ -70,11 +75,16 @@
 #u316-4,#u326-4,#u332-4,#u340-4
 {
 	text-align: center;
-	line-height: 24px;
 	font-size: 20px;
 	color: #FFFFFF;
+	line-height: 24px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
 }
 
 #u110
@@ -91,67 +101,5 @@
 	border-color: #000000;
 	background-color: #FFFFFF;
 	position: relative;
-}
-
-#menuu134,#u313,#u320,#u328,#u335,#slideshowu500
-{
-	position: relative;
-}
-
-#u503
-{
-	position: absolute;
-	background-color: transparent;
-}
-
-#u602_clip,#u611_clip
-{
-	overflow: hidden;
-}
-
-#u506,#u602,#u611,#u620
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: #000000;
-	position: relative;
-}
-
-#u525-4,#u502-4
-{
-	position: absolute;
-	border-style: none;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	text-align: center;
-	line-height: 20px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-}
-
-#u525,#u502
-{
-	color: #999999;
-}
-
-#u510-4
-{
-	position: absolute;
-	border-style: none;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	text-align: center;
-	line-height: 20px;
-	color: #999999;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-}
-
-.MenuItem,.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* unifiedNavBar */
-{
-	cursor: pointer;
-}
-
-.SSSlideLoading /* slideshowFreeStyle */
-{
-	background: url("../images/loading.gif") no-repeat center center;
 }
 
