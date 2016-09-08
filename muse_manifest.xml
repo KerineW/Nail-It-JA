@@ -2,13 +2,13 @@
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
     <file name="master_generic.css" crc="81399180" ref="services:specials:gallery:contact"/>
-    <file name="master_home.css" crc="55433286" ref="homepage"/>
-    <file name="services.css" crc="182795660" ref="services"/>
-    <file name="iefonts_services.css" crc="3770088588" ref="services"/>
-    <file name="homepage.css" crc="279557941" ref="homepage"/>
+    <file name="master_home.css" crc="128432280" ref="homepage"/>
+    <file name="services.css" crc="4195069313" ref="services"/>
+    <file name="iefonts_services.css" crc="417443506" ref="services"/>
+    <file name="homepage.css" crc="20771338" ref="homepage"/>
     <file name="specials.css" crc="4230327004" ref="specials"/>
-    <file name="gallery.css" crc="4230327004" ref="gallery"/>
-    <file name="contact.css" crc="4290477129" ref="contact"/>
+    <file name="gallery.css" crc="79930645" ref="gallery"/>
+    <file name="contact.css" crc="206816422" ref="contact"/>
     <file name="iefonts_contact.css" crc="319308214" ref="contact"/>
     <file name="index.css" crc="173995136" ref="index"/>
   </folder>
@@ -16,10 +16,10 @@
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="homepage:services:specials:gallery:contact:index"/>
     <file name="museutils.js" crc="3865766194" ref="homepage:services:specials:gallery:contact:index"/>
     <file name="jquery.musemenu.js" crc="3788803530" ref="homepage:services:specials:gallery:contact"/>
-    <file name="webpro.js" crc="3903299128" ref="homepage:contact"/>
-    <file name="musewpslideshow.js" crc="138381373" ref="homepage"/>
-    <file name="jquery.museoverlay.js" crc="4250894771" ref="homepage"/>
-    <file name="touchswipe.js" crc="4156838003" ref="homepage"/>
+    <file name="webpro.js" crc="3903299128" ref="homepage:contact:services:gallery"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="homepage:gallery"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="homepage:gallery"/>
+    <file name="touchswipe.js" crc="4156838003" ref="homepage:gallery"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="homepage:services:index"/>
     <file name="pie.js" crc="3827607177" ref="homepage:services:index"/>
     <file name="jquery.watch.js" crc="4068933136" ref="homepage:services:specials:gallery:contact:index"/>
@@ -27,11 +27,12 @@
     <file name="form_check.php" crc="4257733307" ref="contact"/>
     <file name="form_throttle.php" crc="3966014863" ref="contact"/>
     <file name="form-u865.php" crc="3953246063" ref="contact"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="services"/>
   </folder>
   <folder name="images">
     <file name="follow-us-on-instagram.png" crc="359197531" ref="homepage"/>
-    <file name="blank.gif" crc="4208392903" ref="homepage"/>
-    <file name="loading.gif" crc="3815509949" ref="homepage"/>
+    <file name="blank.gif" crc="4208392903" ref="gallery"/>
+    <file name="loading.gif" crc="3815509949" ref="gallery"/>
     <file name="screenshot_2016-08-22-08-56-45-u110-fr.png" crc="457887002" ref="homepage"/>
     <file name="u827-grad.png" crc="79709677" ref="services"/>
     <file name="img5-u829-fr.jpg" crc="513258287" ref="services"/>
@@ -46,11 +47,55 @@
     <file name="u878-17-m.png" crc="345933530" ref="contact"/>
     <file name="u878-17-fs.png" crc="3869785650" ref="contact"/>
     <file name="u791-5.png" crc="212481999" ref="index"/>
+    <file name="u1192-11.png" crc="311218780" ref="homepage"/>
+    <file name="u1182-8.png" crc="3909572431" ref="homepage"/>
+    <file name="custom 3-u1251-fr.jpg" crc="168063020" ref="homepage"/>
+    <file name="custom 2-u1248-fr.jpg" crc="3771756413" ref="homepage"/>
+    <file name="u1109.png" crc="4008977071" ref="services"/>
+    <file name="u1089.png" crc="4008977071" ref="services"/>
+    <file name="u1036.png" crc="4008977071" ref="services"/>
+    <file name="u1056.png" crc="4008977071" ref="services"/>
+    <file name="u1131.png" crc="413722864" ref="services"/>
+    <file name="u1725-grad.png" crc="115301618" ref="gallery"/>
+    <file name="img_0808.jpg" crc="174509415" ref="gallery"/>
+    <file name="final (2).jpg" crc="3965223252" ref="gallery"/>
+    <file name="final.jpg" crc="3803890987" ref="gallery"/>
+    <file name="final (1).jpg" crc="4097814913" ref="gallery"/>
+    <file name="img_3203.jpg" crc="143307328" ref="gallery"/>
+    <file name="img_4294.jpg" crc="9574345" ref="gallery"/>
+    <file name="img_4417.jpg" crc="314823431" ref="gallery"/>
+    <file name="img_4434.jpg" crc="40112288" ref="gallery"/>
+    <file name="img_4751.jpg" crc="4239037592" ref="gallery"/>
+    <file name="img_5314.jpg" crc="4153344124" ref="gallery"/>
+    <file name="img_5409.jpg" crc="515801429" ref="gallery"/>
+    <file name="img_5437.jpg" crc="3771650204" ref="gallery"/>
+    <file name="img_5646.jpg" crc="3775608805" ref="gallery"/>
+    <file name="img_5684.jpg" crc="4159068108" ref="gallery"/>
+    <file name="img_5687.jpg" crc="4232376420" ref="gallery"/>
+    <file name="img_5732.jpg" crc="383833199" ref="gallery"/>
+    <file name="img_5842.jpg" crc="3846738184" ref="gallery"/>
+    <file name="img_0808221x222.jpg" crc="4210978345" ref="gallery"/>
+    <file name="final (2)263x188.jpg" crc="79850448" ref="gallery"/>
+    <file name="final291x188.jpg" crc="4151376183" ref="gallery"/>
+    <file name="final (1)289x188.jpg" crc="3880674084" ref="gallery"/>
+    <file name="img_3203221x222.jpg" crc="404027665" ref="gallery"/>
+    <file name="img_4294221x277.jpg" crc="3933520793" ref="gallery"/>
+    <file name="img_4417251x188.jpg" crc="4236836944" ref="gallery"/>
+    <file name="img_4434221x394.jpg" crc="3801680130" ref="gallery"/>
+    <file name="img_4751221x222.jpg" crc="406504971" ref="gallery"/>
+    <file name="img_5314221x222.jpg" crc="4233184970" ref="gallery"/>
+    <file name="img_5409221x222.jpg" crc="4100955342" ref="gallery"/>
+    <file name="img_5437221x222.jpg" crc="3908177061" ref="gallery"/>
+    <file name="img_5646222x188.jpg" crc="4294503878" ref="gallery"/>
+    <file name="img_5684221x394.jpg" crc="4063481001" ref="gallery"/>
+    <file name="img_5687221x222.jpg" crc="101402784" ref="gallery"/>
+    <file name="img_5732285x188.jpg" crc="3903836312" ref="gallery"/>
+    <file name="img_5842221x201.jpg" crc="291892017" ref="gallery"/>
   </folder>
-  <file name="homepage.html" crc="307248293" mt="1472582931934" redirect="true"/>
-  <file name="services.html" crc="442093370" mt="1472577464444" redirect="true"/>
-  <file name="specials.html" crc="238660805" mt="1472411406916" redirect="true"/>
-  <file name="gallery.html" crc="495801365" mt="1472411406919" redirect="true"/>
-  <file name="contact.html" crc="304115357" mt="1472583097222" redirect="true"/>
-  <file name="index.html" crc="4195426612" mt="1471908031546" redirect="true"/>
+  <file name="homepage.html" crc="4254586758" mt="1473352888405" redirect="true"/>
+  <file name="services.html" crc="3424464" mt="1473304241236" redirect="true"/>
+  <file name="specials.html" crc="238660805" mt="1473304241239" redirect="true"/>
+  <file name="gallery.html" crc="4164955551" mt="1473352666573" redirect="true"/>
+  <file name="contact.html" crc="3849155072" mt="1473304241245" redirect="true"/>
+  <file name="index.html" crc="92601495" mt="1473351996711" redirect="true"/>
 </manifest>
