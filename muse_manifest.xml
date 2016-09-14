@@ -1,33 +1,51 @@
 <manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_home.css" crc="3929413526" ref="phone>services:phone>specials:phone>gallery:phone>contact:phone>homepage"/>
+      <file name="index.css" crc="4280715256" ref="phone>index"/>
+      <file name="services.css" crc="429536292" ref="phone>services"/>
+      <file name="specials.css" crc="123713586" ref="phone>specials"/>
+      <file name="gallery.css" crc="123713586" ref="phone>gallery"/>
+      <file name="contact.css" crc="123713586" ref="phone>contact"/>
+      <file name="homepage.css" crc="123713586" ref="phone>homepage"/>
+    </folder>
+    <file name="index.html" crc="291907729" mt="1473830845830" redirect="true"/>
+    <file name="homepage.html" crc="436464121" mt="1473830897133" redirect="true"/>
+    <file name="services.html" crc="4049022179" mt="1473830897164" redirect="true"/>
+    <file name="specials.html" crc="220147657" mt="1473830897164" redirect="true"/>
+    <file name="gallery.html" crc="248115427" mt="1473830897164" redirect="true"/>
+    <file name="contact.html" crc="3956936785" mt="1473830897180" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
     <file name="master_generic.css" crc="81399180" ref="services:specials:gallery:contact"/>
-    <file name="master_home.css" crc="128432280" ref="homepage"/>
-    <file name="services.css" crc="4195069313" ref="services"/>
+    <file name="master_home.css" crc="4167113409" ref="homepage"/>
+    <file name="services.css" crc="3926731700" ref="services"/>
     <file name="iefonts_services.css" crc="417443506" ref="services"/>
     <file name="homepage.css" crc="20771338" ref="homepage"/>
     <file name="specials.css" crc="4230327004" ref="specials"/>
-    <file name="gallery.css" crc="79930645" ref="gallery"/>
-    <file name="contact.css" crc="206816422" ref="contact"/>
+    <file name="gallery.css" crc="3777338258" ref="gallery"/>
+    <file name="contact.css" crc="3849170040" ref="contact"/>
     <file name="iefonts_contact.css" crc="319308214" ref="contact"/>
     <file name="index.css" crc="173995136" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="homepage:services:specials:gallery:contact:index"/>
-    <file name="museutils.js" crc="3865766194" ref="homepage:services:specials:gallery:contact:index"/>
-    <file name="jquery.musemenu.js" crc="3788803530" ref="homepage:services:specials:gallery:contact"/>
-    <file name="webpro.js" crc="3903299128" ref="homepage:contact:services:gallery"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="homepage:services:specials:gallery:contact:index:phone>index:phone>homepage:phone>services:phone>specials:phone>gallery:phone>contact"/>
+    <file name="museutils.js" crc="3865766194" ref="homepage:services:specials:gallery:contact:index:phone>index:phone>homepage:phone>services:phone>specials:phone>gallery:phone>contact"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="homepage:services:specials:gallery:contact:phone>homepage:phone>services:phone>specials:phone>gallery:phone>contact"/>
+    <file name="webpro.js" crc="3903299128" ref="homepage:contact:services:gallery:phone>homepage:phone>services:phone>specials:phone>gallery:phone>contact"/>
     <file name="musewpslideshow.js" crc="138381373" ref="homepage:gallery"/>
     <file name="jquery.museoverlay.js" crc="4250894771" ref="homepage:gallery"/>
     <file name="touchswipe.js" crc="4156838003" ref="homepage:gallery"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="homepage:services:index"/>
-    <file name="pie.js" crc="3827607177" ref="homepage:services:index"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="homepage:services:specials:gallery:contact:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="homepage:services:index:phone>index"/>
+    <file name="pie.js" crc="3827607177" ref="homepage:services:index:phone>services"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="homepage:services:specials:gallery:contact:index:phone>index:phone>homepage:phone>services:phone>specials:phone>gallery:phone>contact"/>
     <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="services:specials:gallery:contact"/>
     <file name="form_check.php" crc="4257733307" ref="contact"/>
     <file name="form_throttle.php" crc="3966014863" ref="contact"/>
     <file name="form-u865.php" crc="3953246063" ref="contact"/>
-    <file name="musewpdisclosure.js" crc="4285748861" ref="services"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="services:phone>homepage:phone>services:phone>specials:phone>gallery:phone>contact"/>
+    <file name="museredirect.js" crc="236897542" ref="homepage:services:specials:gallery:contact:index"/>
   </folder>
   <folder name="images">
     <file name="follow-us-on-instagram.png" crc="359197531" ref="homepage"/>
@@ -40,14 +58,14 @@
     <file name="img7-u838-fr.jpg" crc="287176106" ref="services"/>
     <file name="img11-u848-fr.jpg" crc="250049703" ref="services"/>
     <file name="img6-u857-fr.jpg" crc="229202156" ref="services"/>
-    <file name="screenshot_2016-08-22-08-56-45.jpg" crc="353611149" ref="services:index"/>
+    <file name="screenshot_2016-08-22-08-56-45.jpg" crc="353611149" ref="services:index:phone>index"/>
     <file name="u903-grad.png" crc="3906337593" ref="contact"/>
     <file name="u878-17.png" crc="236349253" ref="contact"/>
     <file name="u878-17-r.png" crc="401733888" ref="contact"/>
     <file name="u878-17-m.png" crc="345933530" ref="contact"/>
     <file name="u878-17-fs.png" crc="3869785650" ref="contact"/>
     <file name="u791-5.png" crc="212481999" ref="index"/>
-    <file name="u1192-11.png" crc="311218780" ref="homepage"/>
+    <file name="u1192-11.png" crc="26294221" ref="homepage"/>
     <file name="u1182-8.png" crc="3909572431" ref="homepage"/>
     <file name="custom 3-u1251-fr.jpg" crc="168063020" ref="homepage"/>
     <file name="custom 2-u1248-fr.jpg" crc="3771756413" ref="homepage"/>
@@ -91,11 +109,22 @@
     <file name="img_5687221x222.jpg" crc="101402784" ref="gallery"/>
     <file name="img_5732285x188.jpg" crc="3903836312" ref="gallery"/>
     <file name="img_5842221x201.jpg" crc="291892017" ref="gallery"/>
+    <file name="u1923-4.png" crc="528290670" ref="phone>index"/>
+    <file name="img5-u2145-fr.jpg" crc="4245564807" ref="phone>services"/>
+    <file name="u2159.png" crc="88306753" ref="phone>services"/>
+    <file name="img9-u2215-fr.jpg" crc="4136573811" ref="phone>services"/>
+    <file name="u2219.png" crc="4194347003" ref="phone>services"/>
+    <file name="img7-u2265-fr.jpg" crc="282262389" ref="phone>services"/>
+    <file name="u2279.png" crc="4194672510" ref="phone>services"/>
+    <file name="img11-u2290-fr.jpg" crc="135317467" ref="phone>services"/>
+    <file name="u2293.png" crc="4277804236" ref="phone>services"/>
+    <file name="img6-u2325-fr.jpg" crc="69044432" ref="phone>services"/>
+    <file name="u2328.png" crc="463252187" ref="phone>services"/>
   </folder>
-  <file name="homepage.html" crc="4254586758" mt="1473352888405" redirect="true"/>
-  <file name="services.html" crc="3424464" mt="1473304241236" redirect="true"/>
-  <file name="specials.html" crc="238660805" mt="1473304241239" redirect="true"/>
-  <file name="gallery.html" crc="4164955551" mt="1473352666573" redirect="true"/>
-  <file name="contact.html" crc="3849155072" mt="1473304241245" redirect="true"/>
-  <file name="index.html" crc="92601495" mt="1473351996711" redirect="true"/>
+  <file name="homepage.html" crc="4012406858" mt="1473830602479" redirect="true"/>
+  <file name="services.html" crc="4249385177" mt="1473830602487" redirect="true"/>
+  <file name="specials.html" crc="3847979819" mt="1473830602487" redirect="true"/>
+  <file name="gallery.html" crc="40032928" mt="1473830602491" redirect="true"/>
+  <file name="contact.html" crc="3830734811" mt="1473830602491" redirect="true"/>
+  <file name="index.html" crc="3869981269" mt="1473830602179" redirect="true"/>
 </manifest>
