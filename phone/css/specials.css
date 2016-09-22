@@ -32,7 +32,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 570px;
+	min-height: 499px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -41,32 +41,34 @@
 
 #page_position_content
 {
-	margin-top: -3px;
-	margin-bottom: 399px;
+	margin-top: -1px;
+	margin-bottom: 233px;
 }
 
 #u1925
 {
 	z-index: 2;
-	width: 649px;
-	padding-bottom: 33px;
-	left: -100px;
+	width: 1498px;
+	padding-bottom: 8px;
+	margin-left: 1px;
 }
 
 #u1926-4
 {
 	z-index: 3;
-	width: 180px;
+	width: 739px;
 	margin-right: -10000px;
-	margin-top: 16px;
-	left: 207px;
+	margin-top: 3px;
+	left: 28px;
 }
 
 #accordionu1927
 {
 	z-index: 7;
 	width: 186px;
-	margin-top: 1px;
+	margin-left: 1px;
+	top: -1px;
+	margin-bottom: -1px;
 }
 
 #u1947
@@ -414,7 +416,7 @@
 {
 	z-index: 52;
 	width: 174px;
-	min-height: 14px;
+	min-height: 13px;
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -424,7 +426,7 @@
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 14px;
+	min-height: 13px;
 	width: 174px;
 	margin: 0px;
 }
@@ -433,7 +435,7 @@
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 14px;
+	min-height: 13px;
 	width: 174px;
 	margin: 0px;
 }
@@ -442,7 +444,7 @@
 {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 15px;
+	min-height: 14px;
 	width: 175px;
 	margin: 0px 1px 1px 0px;
 }
