@@ -1,65 +1,80 @@
-#u431-4,#u437-4,#u483-4,#u488-4
+#u431-4
 {
-	font-family: berkshire-swash-n4, cursive;
+	font-family: berkshire-swash-n4, sans-serif;
+}
+
+#u437-4
+{
+	font-family: berkshire-swash-n4, sans-serif;
+}
+
+#u483-4
+{
+	font-family: berkshire-swash-n4, sans-serif;
+}
+
+#u488-4
+{
+	font-family: berkshire-swash-n4, sans-serif;
 }
 
 #u825-4
 {
-	font-family: alex-brush-n4, cursive;
+	font-family: alex-brush-n4, sans-serif;
 }
 
-#u1055-4.AccordionPanelTabOpen p,#u1108-4.AccordionPanelTabOpen p,#u997-4.AccordionPanelTabOpen p,#u1127-4.AccordionPanelTabOpen p,#u1132-4.AccordionPanelTabOpen p,#u1104-4.AccordionPanelTabOpen p,#u1088-4.AccordionPanelTabOpen p,#u1111-4.AccordionPanelTabOpen p,#u1043-4.AccordionPanelTabOpen p,#u1038-4.AccordionPanelTabOpen p,#u1111-4
+#u1038-4.AccordionPanelTabOpen p,#u1043-4.AccordionPanelTabOpen p,#u997-4.AccordionPanelTabOpen p,#u1132-4.AccordionPanelTabOpen p,#u1055-4.AccordionPanelTabOpen p,#u1108-4.AccordionPanelTabOpen p,#u1111-4.AccordionPanelTabOpen p,#u1088-4.AccordionPanelTabOpen p,#u1104-4.AccordionPanelTabOpen p,#u1127-4.AccordionPanelTabOpen p,#u1127-4
 {
-	font-family: allura-n4, cursive;
-}
-
-#u1108-4
-{
-	font-family: allura-n4, cursive;
-}
-
-#u1104-4
-{
-	font-family: allura-n4, cursive;
-}
-
-#u1088-4
-{
-	font-family: allura-n4, cursive;
-}
-
-#u997-4
-{
-	font-family: allura-n4, cursive;
-}
-
-#u1038-4
-{
-	font-family: allura-n4, cursive;
-}
-
-#u1043-4
-{
-	font-family: allura-n4, cursive;
-}
-
-#u1055-4
-{
-	font-family: allura-n4, cursive;
-}
-
-#u1127-4
-{
-	font-family: allura-n4, cursive;
-}
-
-#u789-2,#u789-3,#u789-5,#u789-6,#u789-8,#u789-9,#u789-12,#u789-13,#u789-15,#u789-16,#u789-18,#u789-19,#u789-21,#u789-22,#u789-24,#u789-25,#u789-27,#u789-28,#u789-30,#u789-31,#u789-33,#u1113-2,#u1113-4,#u1103-2,#u1103-4,#u1103-6,#u996-2,#u996-4,#u996-6,#u996-8,#u996-10,#u1042-2,#u1042-4,#u1042-6,#u1129-2,#u1129-4,#u1129-6,#u1129-8,#u1129-9,#u1129-11,#u1129-13,#u1129-15
-{
-	font-family: playfair-display-n4, serif;
+	font-family: allura-n4, sans-serif;
 }
 
 #u1132-4
 {
-	font-family: allura-n4, cursive;
+	font-family: allura-n4, sans-serif;
+}
+
+#u1111-4
+{
+	font-family: allura-n4, sans-serif;
+}
+
+#u1108-4
+{
+	font-family: allura-n4, sans-serif;
+}
+
+#u1104-4
+{
+	font-family: allura-n4, sans-serif;
+}
+
+#u1088-4
+{
+	font-family: allura-n4, sans-serif;
+}
+
+#u997-4
+{
+	font-family: allura-n4, sans-serif;
+}
+
+#u1038-4
+{
+	font-family: allura-n4, sans-serif;
+}
+
+#u1043-4
+{
+	font-family: allura-n4, sans-serif;
+}
+
+#u789-2,#u789-3,#u789-5,#u789-6,#u789-8,#u789-9,#u789-12,#u789-13,#u789-15,#u789-16,#u789-18,#u789-19,#u789-21,#u789-22,#u789-24,#u789-25,#u789-27,#u789-28,#u789-30,#u789-31,#u789-33,#u1129-2,#u1129-4,#u1129-6,#u1129-8,#u1129-9,#u1129-11,#u1129-13,#u1129-15,#u1113-2,#u1113-4,#u1103-2,#u1103-4,#u1103-6,#u996-2,#u996-4,#u996-6,#u996-8,#u996-10,#u1042-2,#u1042-4,#u1042-6
+{
+	font-family: playfair-display-n4, serif;
+}
+
+#u1055-4
+{
+	font-family: allura-n4, sans-serif;
 }
 

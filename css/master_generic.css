@@ -21,12 +21,38 @@
 
 #u429:hover
 {
-	background-color: #999999;
+	background-color: #000000;
 }
 
 #u429:active
 {
 	background-color: #6B6B6B;
+}
+
+#u431-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 22px;
+	color: #000000;
+	line-height: 26px;
+	font-family: berkshire-swash, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u429:hover #u431-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u429:active #u431-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
 }
 
 #u436
@@ -35,14 +61,40 @@
 	position: relative;
 }
 
-#u429.MuseMenuActive,#u436:hover
+#u436:hover
 {
-	background-color: #999999;
+	background-color: #000000;
 }
 
 #u436:active
 {
 	background-color: #6B6B6B;
+}
+
+#u437-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 22px;
+	color: #000000;
+	line-height: 26px;
+	font-family: berkshire-swash, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u436:hover #u437-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u436:active #u437-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
 }
 
 #u480
@@ -51,14 +103,40 @@
 	position: relative;
 }
 
-#u436.MuseMenuActive,#u480:hover
+#u480:hover
 {
-	background-color: #999999;
+	background-color: #000000;
 }
 
 #u480:active
 {
 	background-color: #6B6B6B;
+}
+
+#u483-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 22px;
+	color: #000000;
+	line-height: 26px;
+	font-family: berkshire-swash, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u480:hover #u483-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u480:active #u483-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
 }
 
 #u346_align_to_page,#menuu352,#u428,#u435,#u477,#u484
@@ -72,9 +150,9 @@
 	position: relative;
 }
 
-#u480.MuseMenuActive,#u485:hover
+#u485:hover
 {
-	background-color: #999999;
+	background-color: #000000;
 }
 
 #u485:active
@@ -82,18 +160,41 @@
 	background-color: #6B6B6B;
 }
 
-#u485.MuseMenuActive
+#u429.MuseMenuActive,#u436.MuseMenuActive,#u480.MuseMenuActive,#u485.MuseMenuActive
 {
-	background-color: #999999;
+	background-color: #FFFFFF;
 }
 
-#u431-4,#u437-4,#u483-4,#u488-4
+#u488-4
 {
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	text-align: center;
+	font-size: 22px;
 	color: #000000;
-	font-family: berkshire-swash, cursive;
+	line-height: 26px;
+	font-family: berkshire-swash, sans-serif;
 	font-weight: 400;
 	position: relative;
+}
+
+#u485:hover #u488-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u485:active #u488-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u429.MuseMenuActive #u431-4 p,#u436.MuseMenuActive #u437-4 p,#u480.MuseMenuActive #u483-4 p,#u485.MuseMenuActive #u488-4 p
+{
+	color: #000000;
+	visibility: inherit;
 }
 
 .MenuItem /* unifiedNavBar */
