@@ -52,9 +52,9 @@
 	width: 296px;
 	min-height: 63px;
 	text-align: center;
-	line-height: 35px;
 	font-size: 29px;
 	color: #FFFFFF;
+	line-height: 35px;
 	position: relative;
 }
 
@@ -92,8 +92,8 @@
 	z-index: 68;
 	width: 799px;
 	min-height: 139px;
-	line-height: 192px;
 	font-size: 160px;
+	line-height: 192px;
 	font-family: alex-brush, sans-serif;
 	font-weight: 400;
 	margin-bottom: -1px;
@@ -308,8 +308,8 @@
 	padding-bottom: 10px;
 	text-align: center;
 	font-size: 48px;
-	color: #FFFFFF;
 	line-height: 48px;
+	color: #FFFFFF;
 	font-family: allura, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -393,8 +393,8 @@
 	padding-bottom: 10px;
 	text-align: center;
 	font-size: 18px;
-	color: #000000;
 	line-height: 18px;
+	color: #000000;
 	font-family: allura, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -478,8 +478,8 @@
 	padding-bottom: 10px;
 	text-align: center;
 	font-size: 48px;
-	color: #FFFFFF;
 	line-height: 48px;
+	color: #FFFFFF;
 	font-family: allura, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -559,8 +559,8 @@
 	padding-bottom: 10px;
 	text-align: center;
 	font-size: 18px;
-	color: #000000;
 	line-height: 18px;
+	color: #000000;
 	font-family: allura, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -629,8 +629,8 @@
 	padding-bottom: 10px;
 	text-align: center;
 	font-size: 48px;
-	color: #FFFFFF;
 	line-height: 48px;
+	color: #FFFFFF;
 	font-family: allura, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -700,8 +700,8 @@
 	padding-bottom: 10px;
 	text-align: center;
 	font-size: 18px;
-	color: #000000;
 	line-height: 18px;
+	color: #000000;
 	font-family: allura, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -770,8 +770,8 @@
 	padding-bottom: 10px;
 	text-align: center;
 	font-size: 48px;
-	color: #FFFFFF;
 	line-height: 48px;
+	color: #FFFFFF;
 	font-family: allura, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -853,8 +853,8 @@
 	padding-bottom: 10px;
 	text-align: center;
 	font-size: 18px;
-	color: #000000;
 	line-height: 18px;
+	color: #000000;
 	font-family: allura, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -933,8 +933,8 @@
 	padding-bottom: 10px;
 	text-align: center;
 	font-size: 48px;
-	color: #FFFFFF;
 	line-height: 48px;
+	color: #FFFFFF;
 	font-family: allura, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1046,8 +1046,8 @@
 	padding-bottom: 10px;
 	text-align: center;
 	font-size: 18px;
-	color: #000000;
 	line-height: 18px;
+	color: #000000;
 	font-family: allura, sans-serif;
 	font-weight: 400;
 	position: relative;
